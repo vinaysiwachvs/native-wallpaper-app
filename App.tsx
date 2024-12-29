@@ -1,5 +1,5 @@
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import PixelWallpapers from "./PixelWallpapers";
+import PixelWallpapers from "./src/PixelWallpaper";
 import { StatusBar } from "expo-status-bar";
 
 const queryClient = new QueryClient();
